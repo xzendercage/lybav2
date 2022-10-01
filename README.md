@@ -5,6 +5,12 @@
 
 ***
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://i.ibb.co/YhgLXxx/laiba-inside.png)](https://forthebadge.com)
+
 ### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/VrZ4vwFW)
 
 ### Supported Services 
