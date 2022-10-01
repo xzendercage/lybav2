@@ -1,4 +1,4 @@
-# Lyba V2 𝄞	
+# LYBA V2 𝄞	
 
 *An advanced Discord Music Bot with a Dashboard, using distube.js.org having an interactive button & menu system and many features!*
 **Supported Features:** *Spotify • YouTube • SoundCloud • Live Stream • Audio Filtering • DJ Roles • Autoplay • Autoresume • Dashboard • ...*
